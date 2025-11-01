@@ -44,7 +44,7 @@ area,bedrooms,age,price
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/area-price-prediction-use-condition-iitbhu.git
+   git clone https://github.com/princegupta4171/area-price-prediction-use-condition-iitbhu.git
    cd area-price-prediction-use-condition-iitbhu
    ```
 
