@@ -86,6 +86,7 @@ area-price-prediction-use-condition-iitbhu/
 ├── Multi.csv            # Training dataset
 ├── myfile2.py           # Basic Streamlit app
 ├── myfile2a.py          # Enhanced Streamlit app with styling
+├── pro2.ipynb           # Jupyter notebook for model development
 └── areapricebedage.pkl  # Trained ML model (pickle file)
 ```
 
